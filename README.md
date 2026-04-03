@@ -2,6 +2,8 @@
 
 Sistema de visão computacional que detecta e pontua socos em tempo real usando YOLOv11-pose e análise de ângulos entre articulações.
 
+![Demo](demonstra.gif)
+
 ## Funcionalidades
 
 - Detecção de dois lutadores simultaneamente com IDs persistentes
