@@ -69,7 +69,7 @@ Todos os parâmetros estão centralizados em `functions/config.py`:
 
 | Parâmetro | Descrição | Padrão |
 |---|---|---|
-| `video_path` | Caminho do vídeo de entrada | `"lutas_inputs/luta_5.mp4"` |
+| `video_path` | Caminho do vídeo de entrada | `"lutas_inputs/video_da_luta.mp4"` |
 | `MODEL_PATH` | Modelo YOLO a usar | `"yolo11m-pose.pt"` |
 | `angulo_dobrado` | Ângulo máximo para braço em guarda | `70` |
 | `angulo_estendido` | Ângulo mínimo para soco executado | `98` |
