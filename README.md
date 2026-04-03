@@ -1,4 +1,4 @@
-# Punch_Fight_Detection — Árbitro Virtual de Boxe
+# Punch_Fight_Detection
 
 Sistema de visão computacional que detecta e pontua socos em tempo real usando YOLOv11-pose e análise de ângulos entre articulações.
 
