@@ -1,7 +1,6 @@
-*.mp4
+
 __pycache__/
 *.pyc
 *.pyo
 .DS_Store
 Thumbs.db
- 
