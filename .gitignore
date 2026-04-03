@@ -1,0 +1,7 @@
+lutas_inputs/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+ 
